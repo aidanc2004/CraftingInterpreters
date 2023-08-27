@@ -1,6 +1,5 @@
 package com.craftinginterpreters.lox;
 
-import java.time.Period;
 import java.util.*;
 
 import static com.craftinginterpreters.lox.TokenType.*;
